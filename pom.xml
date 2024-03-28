@@ -46,9 +46,9 @@
 	-->
     <distributionManagement>
         <repository>
-            <id>github-avro</id>
+            <id>2-github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/alokkusingh/avro-serializer</url>
+            <url>https://maven.pkg.github.com/alokkusingh/mvn-repo</url>
         </repository>
     </distributionManagement>
 
